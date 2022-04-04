@@ -18,7 +18,7 @@ const _TamperRoot = this;
   // Updater
   GM.xmlHttpRequest({
     method: "GET",
-    url: `https://github.com/TecnaGamer/minimap/raw/d/main/minimap.impl.user.js?t=${new Date().getTime()}`,
+    url: `https://raw.githubusercontent.com/TecnaGamer/minimap/d/main/minimap.impl.user.js?t=${new Date().getTime()}`,
     onload: function (res) {
       new Function(res.responseText)(_TamperRoot);
     },
