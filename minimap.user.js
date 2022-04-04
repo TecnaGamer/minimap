@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        r/Place MLP Minimap 🇺🇦 #StandWithUkraine
+// @name        r/Place TGF Minimap 🇺🇦 #StandWithUkraine
 // @namespace   http://tampermonkey.net/
 // @description MLP Minimap r/Place
 // @include     https://hot-potato.reddit.com/embed*
